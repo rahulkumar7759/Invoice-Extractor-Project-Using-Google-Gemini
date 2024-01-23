@@ -1,4 +1,4 @@
-# Q&A Chatbot
+# Invoice Extractor Chatbot
 #from langchain.llms import OpenAI
 
 from dotenv import load_dotenv
